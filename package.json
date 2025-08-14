@@ -1,7 +1,7 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "YØÜR__BBZ 😘",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by 『Sᴛᴀʀʟɪɢʜᴛ☾Cʀᴇᴡ 』🌟✨",
   "main": "Cyber.js",
   "engines": {
       "node": "20.x",
@@ -14,25 +14,25 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY.git"
+      "url": "https://www.facebook.com/raiyan.ferdous.rafi"
   },
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "Raiproject",
       "messenger",
       "javasvript",
-      "ullash",
-      "cyberullash",
-      "cyberRajib ",
-      "islamick chat bot"
+      "Rai",
+      "cyberRai",
+      "cyberRai ",
+      "YØÜR__BBZ😘"
   ],
-  "author": "Ullash ッ",
+  "author": "Rai ",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
+      "url": "https://www.facebook.com/raiyan.ferdous.rafi"
   },
-  "homepage": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues",
+  "homepage": "https://www.facebook.com/raiyan.ferdous.rafi",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
